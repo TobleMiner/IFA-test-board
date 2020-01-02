@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name panasonic_lir3032)(type KiCad)(uri ${KIPRJMOD}/panasonic_lir3032.pretty)(options "")(descr ""))
+)
